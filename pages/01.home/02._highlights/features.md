@@ -6,7 +6,7 @@ features:
     -
         icon: 'fa fa-fighter-jet'
         header: Fast
-        text: 'Scores and all scoreboards update instantaneously, ensuring everyone has the most up-to-date scores available.'
+        text: 'All scores update instantaneously, so everyone has the most up-to-date scores available.'
     -
         icon: 'fa fa-film'
         header: 'Stream Ready'
