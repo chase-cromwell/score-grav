@@ -6,11 +6,11 @@ features:
     -
         icon: 'fa fa-fighter-jet'
         header: Fast
-        text: 'All scores update instantaneously, so everyone has the most up-to-date scores available.'
+        text: 'All scores update instantaneously, so everyone has the most up-to-date scores.'
     -
         icon: 'fa fa-film'
         header: 'Stream Ready'
-        text: 'ScoreTrakr Scoreboards are configurable for numerous sizes and displays to suit any stream or commentary use needed.'
+        text: 'ScoreTrakr Scoreboards are configurable for many sizes and displays to suit any stream or use needed.'
     -
         icon: 'fa fa-cubes'
         header: 'Awesome Technology'
